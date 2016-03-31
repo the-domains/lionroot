@@ -1,0 +1,28 @@
+name: Bryan Fisher
+favicon: null
+layout_spectrum: 0.8059897809289396
+typography_spectrum: 0.17292872816324234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11099538998678327
+  lightness: 0.24112723441794515
+  saturation: 0.41304397606290877
+  rhythmicContrast: 0.18043677206151187
+purpose: []
